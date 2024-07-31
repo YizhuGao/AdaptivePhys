@@ -5,7 +5,7 @@
 
 ## Architecture
 
-[See Architecture Here](#)
+[See Architecture Here](https://github.com/AI4STEM-Education-Center/AdaptivePhys/tree/main/Architecture)
 
 ## Demo
 
